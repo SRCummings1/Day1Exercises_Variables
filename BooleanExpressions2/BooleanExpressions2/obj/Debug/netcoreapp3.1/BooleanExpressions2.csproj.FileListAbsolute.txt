@@ -1,0 +1,11 @@
+C:\Users\baxte\source\repos\BooleanExpressions2\BooleanExpressions2\bin\Debug\netcoreapp3.1\BooleanExpressions2.exe
+C:\Users\baxte\source\repos\BooleanExpressions2\BooleanExpressions2\bin\Debug\netcoreapp3.1\BooleanExpressions2.deps.json
+C:\Users\baxte\source\repos\BooleanExpressions2\BooleanExpressions2\bin\Debug\netcoreapp3.1\BooleanExpressions2.runtimeconfig.json
+C:\Users\baxte\source\repos\BooleanExpressions2\BooleanExpressions2\bin\Debug\netcoreapp3.1\BooleanExpressions2.runtimeconfig.dev.json
+C:\Users\baxte\source\repos\BooleanExpressions2\BooleanExpressions2\bin\Debug\netcoreapp3.1\BooleanExpressions2.dll
+C:\Users\baxte\source\repos\BooleanExpressions2\BooleanExpressions2\bin\Debug\netcoreapp3.1\BooleanExpressions2.pdb
+C:\Users\baxte\source\repos\BooleanExpressions2\BooleanExpressions2\obj\Debug\netcoreapp3.1\BooleanExpressions2.csprojAssemblyReference.cache
+C:\Users\baxte\source\repos\BooleanExpressions2\BooleanExpressions2\obj\Debug\netcoreapp3.1\BooleanExpressions2.AssemblyInfoInputs.cache
+C:\Users\baxte\source\repos\BooleanExpressions2\BooleanExpressions2\obj\Debug\netcoreapp3.1\BooleanExpressions2.AssemblyInfo.cs
+C:\Users\baxte\source\repos\BooleanExpressions2\BooleanExpressions2\obj\Debug\netcoreapp3.1\BooleanExpressions2.dll
+C:\Users\baxte\source\repos\BooleanExpressions2\BooleanExpressions2\obj\Debug\netcoreapp3.1\BooleanExpressions2.pdb

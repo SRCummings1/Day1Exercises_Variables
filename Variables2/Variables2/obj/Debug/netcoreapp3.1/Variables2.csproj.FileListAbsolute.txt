@@ -1,0 +1,10 @@
+C:\Users\baxte\source\repos\Variables2\Variables2\obj\Debug\netcoreapp3.1\Variables2.AssemblyInfoInputs.cache
+C:\Users\baxte\source\repos\Variables2\Variables2\obj\Debug\netcoreapp3.1\Variables2.AssemblyInfo.cs
+C:\Users\baxte\source\repos\Variables2\Variables2\bin\Debug\netcoreapp3.1\Variables2.exe
+C:\Users\baxte\source\repos\Variables2\Variables2\bin\Debug\netcoreapp3.1\Variables2.deps.json
+C:\Users\baxte\source\repos\Variables2\Variables2\bin\Debug\netcoreapp3.1\Variables2.runtimeconfig.json
+C:\Users\baxte\source\repos\Variables2\Variables2\bin\Debug\netcoreapp3.1\Variables2.runtimeconfig.dev.json
+C:\Users\baxte\source\repos\Variables2\Variables2\bin\Debug\netcoreapp3.1\Variables2.dll
+C:\Users\baxte\source\repos\Variables2\Variables2\bin\Debug\netcoreapp3.1\Variables2.pdb
+C:\Users\baxte\source\repos\Variables2\Variables2\obj\Debug\netcoreapp3.1\Variables2.dll
+C:\Users\baxte\source\repos\Variables2\Variables2\obj\Debug\netcoreapp3.1\Variables2.pdb

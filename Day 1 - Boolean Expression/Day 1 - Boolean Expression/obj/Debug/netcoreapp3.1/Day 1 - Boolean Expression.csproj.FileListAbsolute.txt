@@ -1,0 +1,11 @@
+C:\Users\baxte\source\repos\Day 1 - Boolean Expression\Day 1 - Boolean Expression\bin\Debug\netcoreapp3.1\Day 1 - Boolean Expression.exe
+C:\Users\baxte\source\repos\Day 1 - Boolean Expression\Day 1 - Boolean Expression\bin\Debug\netcoreapp3.1\Day 1 - Boolean Expression.deps.json
+C:\Users\baxte\source\repos\Day 1 - Boolean Expression\Day 1 - Boolean Expression\bin\Debug\netcoreapp3.1\Day 1 - Boolean Expression.runtimeconfig.json
+C:\Users\baxte\source\repos\Day 1 - Boolean Expression\Day 1 - Boolean Expression\bin\Debug\netcoreapp3.1\Day 1 - Boolean Expression.runtimeconfig.dev.json
+C:\Users\baxte\source\repos\Day 1 - Boolean Expression\Day 1 - Boolean Expression\bin\Debug\netcoreapp3.1\Day 1 - Boolean Expression.dll
+C:\Users\baxte\source\repos\Day 1 - Boolean Expression\Day 1 - Boolean Expression\bin\Debug\netcoreapp3.1\Day 1 - Boolean Expression.pdb
+C:\Users\baxte\source\repos\Day 1 - Boolean Expression\Day 1 - Boolean Expression\obj\Debug\netcoreapp3.1\Day 1 - Boolean Expression.csprojAssemblyReference.cache
+C:\Users\baxte\source\repos\Day 1 - Boolean Expression\Day 1 - Boolean Expression\obj\Debug\netcoreapp3.1\Day 1 - Boolean Expression.AssemblyInfoInputs.cache
+C:\Users\baxte\source\repos\Day 1 - Boolean Expression\Day 1 - Boolean Expression\obj\Debug\netcoreapp3.1\Day 1 - Boolean Expression.AssemblyInfo.cs
+C:\Users\baxte\source\repos\Day 1 - Boolean Expression\Day 1 - Boolean Expression\obj\Debug\netcoreapp3.1\Day 1 - Boolean Expression.dll
+C:\Users\baxte\source\repos\Day 1 - Boolean Expression\Day 1 - Boolean Expression\obj\Debug\netcoreapp3.1\Day 1 - Boolean Expression.pdb

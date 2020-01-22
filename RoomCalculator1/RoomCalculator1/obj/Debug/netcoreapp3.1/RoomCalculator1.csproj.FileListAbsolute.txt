@@ -1,0 +1,3 @@
+C:\Users\baxte\source\repos\RoomCalculator1\RoomCalculator1\obj\Debug\netcoreapp3.1\RoomCalculator1.csprojAssemblyReference.cache
+C:\Users\baxte\source\repos\RoomCalculator1\RoomCalculator1\obj\Debug\netcoreapp3.1\RoomCalculator1.AssemblyInfoInputs.cache
+C:\Users\baxte\source\repos\RoomCalculator1\RoomCalculator1\obj\Debug\netcoreapp3.1\RoomCalculator1.AssemblyInfo.cs

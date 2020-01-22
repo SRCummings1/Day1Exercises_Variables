@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{4971B934-E06F-4C76-952F-869092E16998}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <StartupObject>
+    </StartupObject>
+    <RootNamespace>variables2</RootNamespace>
+    <AssemblyName>ConsoleApplication</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Console</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Day-1variables\Day-1variables.sln" />
+    <Content Include="Day-1variables\Day-1variables\bin\Debug\netcoreapp3.1\Day-1variables.dll" />
+    <Content Include="Day-1variables\Day-1variables\bin\Debug\netcoreapp3.1\Day-1variables.exe" />
+    <Content Include="Day-1variables\Day-1variables\bin\Debug\netcoreapp3.1\Day-1variables.pdb" />
+    <Content Include="Day-1variables\Day-1variables\obj\Debug\netcoreapp3.1\Day-1variables.AssemblyInfo.cs" />
+    <Content Include="Day-1variables\Day-1variables\obj\Debug\netcoreapp3.1\Day-1variables.csproj.FileListAbsolute.txt" />
+    <Content Include="Day-1variables\Day-1variables\obj\Debug\netcoreapp3.1\Day-1variables.dll" />
+    <Content Include="Day-1variables\Day-1variables\obj\Debug\netcoreapp3.1\Day-1variables.exe" />
+    <Content Include="Day-1variables\Day-1variables\obj\Debug\netcoreapp3.1\Day-1variables.pdb" />
+    <Content Include="Day-1variables\Day-1variables\Program.cs" />
+    <Content Include="RoomCalculator1\RoomCalculator1.sln" />
+    <Content Include="RoomCalculator1\RoomCalculator1\obj\Debug\netcoreapp3.1\RoomCalculator1.AssemblyInfo.cs" />
+    <Content Include="RoomCalculator1\RoomCalculator1\obj\Debug\netcoreapp3.1\RoomCalculator1.csproj.FileListAbsolute.txt" />
+    <Content Include="RoomCalculator1\RoomCalculator1\Program.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Day-1variables\Day-1variables\bin\Debug\netcoreapp3.1\Day-1variables.deps.json" />
+    <None Include="Day-1variables\Day-1variables\bin\Debug\netcoreapp3.1\Day-1variables.runtimeconfig.dev.json" />
+    <None Include="Day-1variables\Day-1variables\bin\Debug\netcoreapp3.1\Day-1variables.runtimeconfig.json" />
+    <None Include="Day-1variables\Day-1variables\Day-1variables.csproj" />
+    <None Include="Day-1variables\Day-1variables\obj\Day-1variables.csproj.nuget.cache" />
+    <None Include="Day-1variables\Day-1variables\obj\Day-1variables.csproj.nuget.dgspec.json" />
+    <None Include="Day-1variables\Day-1variables\obj\Day-1variables.csproj.nuget.g.props" />
+    <None Include="Day-1variables\Day-1variables\obj\Day-1variables.csproj.nuget.g.targets" />
+    <None Include="Day-1variables\Day-1variables\obj\Debug\netcoreapp3.1\Day-1variables.AssemblyInfoInputs.cache" />
+    <None Include="Day-1variables\Day-1variables\obj\Debug\netcoreapp3.1\Day-1variables.assets.cache" />
+    <None Include="Day-1variables\Day-1variables\obj\project.assets.json" />
+    <None Include="RoomCalculator1\RoomCalculator1\obj\Debug\netcoreapp3.1\RoomCalculator1.AssemblyInfoInputs.cache" />
+    <None Include="RoomCalculator1\RoomCalculator1\obj\Debug\netcoreapp3.1\RoomCalculator1.assets.cache" />
+    <None Include="RoomCalculator1\RoomCalculator1\obj\Debug\netcoreapp3.1\RoomCalculator1.csprojAssemblyReference.cache" />
+    <None Include="RoomCalculator1\RoomCalculator1\obj\project.assets.json" />
+    <None Include="RoomCalculator1\RoomCalculator1\obj\RoomCalculator1.csproj.nuget.cache" />
+    <None Include="RoomCalculator1\RoomCalculator1\obj\RoomCalculator1.csproj.nuget.dgspec.json" />
+    <None Include="RoomCalculator1\RoomCalculator1\obj\RoomCalculator1.csproj.nuget.g.props" />
+    <None Include="RoomCalculator1\RoomCalculator1\obj\RoomCalculator1.csproj.nuget.g.targets" />
+    <None Include="RoomCalculator1\RoomCalculator1\RoomCalculator1.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".vs\variables2\v16\" />
+    <Folder Include="My Project\" />
+    <Folder Include="RoomCalculator1\RoomCalculator1\bin\Debug\netcoreapp3.1\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

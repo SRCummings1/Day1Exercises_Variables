@@ -1,0 +1,10 @@
+C:\Users\baxte\source\repos\Day-1variables\Day-1variables\bin\Debug\netcoreapp3.1\Day-1variables.exe
+C:\Users\baxte\source\repos\Day-1variables\Day-1variables\bin\Debug\netcoreapp3.1\Day-1variables.deps.json
+C:\Users\baxte\source\repos\Day-1variables\Day-1variables\bin\Debug\netcoreapp3.1\Day-1variables.runtimeconfig.json
+C:\Users\baxte\source\repos\Day-1variables\Day-1variables\bin\Debug\netcoreapp3.1\Day-1variables.runtimeconfig.dev.json
+C:\Users\baxte\source\repos\Day-1variables\Day-1variables\bin\Debug\netcoreapp3.1\Day-1variables.dll
+C:\Users\baxte\source\repos\Day-1variables\Day-1variables\bin\Debug\netcoreapp3.1\Day-1variables.pdb
+C:\Users\baxte\source\repos\Day-1variables\Day-1variables\obj\Debug\netcoreapp3.1\Day-1variables.AssemblyInfoInputs.cache
+C:\Users\baxte\source\repos\Day-1variables\Day-1variables\obj\Debug\netcoreapp3.1\Day-1variables.AssemblyInfo.cs
+C:\Users\baxte\source\repos\Day-1variables\Day-1variables\obj\Debug\netcoreapp3.1\Day-1variables.dll
+C:\Users\baxte\source\repos\Day-1variables\Day-1variables\obj\Debug\netcoreapp3.1\Day-1variables.pdb
